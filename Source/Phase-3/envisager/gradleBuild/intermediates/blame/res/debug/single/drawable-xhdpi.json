@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\phase-3\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_info.png",
+        "source": "D:\\phase-3\\android\\res\\drawable-xhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "D:\\phase-3\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\phase-3\\android\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
